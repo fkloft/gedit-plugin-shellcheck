@@ -1,0 +1,7 @@
+[Plugin]
+Module=shellcheck
+Loader=python3
+IAge=3
+Name=shellcheck
+Description=Checks sh/bash code with shellcheck
+Authors=Felix Kloft
